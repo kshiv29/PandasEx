@@ -17,3 +17,11 @@ print('{:<20}'.format("shiv kumar yadav"))
 print('{:>20}'.format("shiv kumar yadav"))
 print('{:o}'.format(10))
 print('{:b}'.format(10)) #for binary
+print('I\'m a "python learner"')
+print(r'this is path C:\number\nan') #raw string
+print("""\
+        Hello:
+        
+            user Defined Look
+                hallo ihr seid junge
+""")
