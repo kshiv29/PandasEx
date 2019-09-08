@@ -20,4 +20,4 @@ def is_anagram(str1, str2):
 
 print(is_anagram('geek', 'eegk'))
 
-print(is_anagram('geek', 'peek'))
+print(is_anagram('listen', 'silent'))
