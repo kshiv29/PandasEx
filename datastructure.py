@@ -14,3 +14,15 @@ try:
     tup[3] = 5
 except Exception as e:
     print(e)
+
+# Python program to illustrate list
+
+# creates a empty list
+nums = []
+
+# appending data in list
+nums.append(21)
+nums.append(40.5)
+nums.append("String")
+
+print(nums)

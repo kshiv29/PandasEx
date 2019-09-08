@@ -21,3 +21,4 @@ file = open("C:\\Users\\shiv8.kumar\\Desktop\\test.txt", "r")
 
 print(file.name)
 print(file.closed)
+
